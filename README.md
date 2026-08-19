@@ -1,43 +1,73 @@
 # Hi, I'm Wolffy 👋
 
 
-I explore AI developer tools,
-LLM APIs and practical AI workflows.
+Building resources for developers exploring the AI ecosystem.
 
+
+I research LLM APIs, AI infrastructure,
+AI tools and practical workflows
+to help developers build better AI applications.
+
+
+---
 
 ## 🔍 Focus Areas
 
 
-- Large Language Model APIs
-- AI Developer Tools
-- AI Automation
-- Model Comparison
-- Open Source AI Resources
+- 🤖 LLM API Ecosystem
+- 🧠 AI Model Comparison
+- ⚡ AI Developer Tools
+- 🛠 AI Workflows
+- 🌎 Open Source AI Resources
 
+
+---
 
 ## 🚀 Current Projects
 
 
 ### AIWHALE
 
-A unified gateway for accessing multiple AI models through one API.
+
+An AI gateway project exploring unified access
+to multiple LLM providers through one API.
 
 
-### AI Developer Resources
+Focus:
 
-Building open resources to help developers discover better AI tools.
+- Multi-model access
+- API infrastructure
+- Developer experience
 
+
+---
+
+### SupaNexus
+
+
+A developer-focused AI gateway
+for accessing multiple AI models
+through a unified interface.
+
+
+---
 
 ## 📚 What I Share
 
 
+I create and share:
+
+
 - LLM API guides
 - AI tool collections
-- Developer tutorials
-- Model analysis
+- Model comparisons
+- Developer resources
 
 
-## 🌎 Connect
+---
+
+## 🌎 Building in Public
 
 
-Building in public.
+Exploring the future of AI development
+and making AI tools easier to discover and use.
